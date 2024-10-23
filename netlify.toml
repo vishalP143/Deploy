@@ -1,0 +1,4 @@
+[build]
+  base = "random-joke-generator"  # Base directory
+  publish = "random-joke-generator/build"  # Publish directory
+  command = "npm run build"  # Build command
